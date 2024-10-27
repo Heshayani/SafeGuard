@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home"
+        android:id="@+id/home"/>
+    <item android:title="Location"
+        android:icon="@drawable/locicon"
+        android:id="@+id/loc"/>
+    <item android:title="profile"
+        android:icon="@drawable/userp"
+        android:id="@+id/user"/>
+    <item android:title="detection"
+        android:icon="@drawable/detect"
+        android:id="@+id/detect"/>
+</menu>

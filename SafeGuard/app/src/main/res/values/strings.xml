@@ -1,0 +1,21 @@
+<resources>
+    <string name="appName">SafeGuard</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="Confirmpassword">ConfirmPassword</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="fp">Forgot Password?</string>
+    <string name="home">Home</string>
+    <string name="trusted">Trusted Person</string>
+    <string name="add">Address</string>
+    <string name="con">Contact no(+94********) format</string>
+    <string name="name">Name</string>
+    <string name="medical">Your Medical History </string>
+    <string name="save">Save Changes </string>
+    <string name="Signout">Sign Out</string>
+    <string name="click">Click here to Sign Out</string>
+    <string name="msg">Having an Emergency?Double tap the button</string>
+
+</resources>
